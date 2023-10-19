@@ -57,6 +57,6 @@ If you encounter any issues, bugs, or have suggestions for improvements, please 
 
 ## Acknowledgments
 
-- This application was created with the support of the React community and numerous open-source packages.
+This application was created with the support of the React community and numerous open-source packages.
 
 Thank you for using the React Paragraph Word Counter App! We hope it serves your needs effectively. If you have any questions or feedback, please don't hesitate to [get in touch with me](https://linktr.ee/aswinpkumar).
