@@ -8,8 +8,7 @@ Welcome to the React Paragraph Word Counter Web App! This application is a simpl
 
 - **Clear and Intuitive User Interface**: The app is designed with a clean and intuitive user interface, making it easy for users of all levels of technical expertise.
 
-- **Copy to Clipboard**: You can copy the paragraph with the word count to your clipboard with a single click, allowing you to easily share or paste it into other applications.
-
+- **Clear All Button**: You can clear all the text from the text box with a single click, allowing you to easily write again in case of errors.
 
 ## Getting Started
 
@@ -37,7 +36,7 @@ To use the React Paragraph Word Counter App, follow these simple steps:
 
 2. As you enter or modify the text, the word count will automatically update in real-time.
 
-3. To copy the paragraph along with the word count, simply click the "Copy to Clipboard" button.
+3. To clear the paragraph , simply click the "Clear All" button.
 
 ## Technologies Used
 
@@ -58,6 +57,6 @@ If you encounter any issues, bugs, or have suggestions for improvements, please 
 
 ## Acknowledgments
 
-- This application was created with the support of the React community and numerous open-source packages.
+This application was created with the support of the React community and numerous open-source packages.
 
 Thank you for using the React Paragraph Word Counter App! We hope it serves your needs effectively. If you have any questions or feedback, please don't hesitate to [get in touch with me](https://linktr.ee/aswinpkumar).
