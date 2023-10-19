@@ -14,10 +14,14 @@ function App() {
     return words.length;
   };
 
+  const handleClearText = () => {
+    setText('');
+  };
+
   return (
     <div className="App">
       <h2><u>Responsive Paragraph Word Counter</u></h2>
-      <textarea
+      <textarea id = "text-box"
         placeholder="Type here..."
         rows="15"
         cols="70"
@@ -25,6 +29,9 @@ function App() {
         onChange={handleTextChange}
       />
       <p>Word Count: {countWords(text)}</p>
+
+      <button id = "clr" onClick={handleClearText}>Clear All</button>
+
     </div>
   );
 }

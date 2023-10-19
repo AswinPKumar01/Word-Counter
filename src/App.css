@@ -41,6 +41,7 @@ h2{
   margin: 50px 0 30px;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 p{
   font-weight: bold;
   font-family:'Courier New', Courier, monospace;
@@ -48,6 +49,21 @@ p{
 
 textarea{
  background-color: #fcf7e7;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-size: medium;
+}
+
+button{
+  height: 28px;
+  width: 70px;
+  border-radius: 12px;
+  border: 1px solid saddlebrown;
+  background-color: #ffefba00;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button:hover{
+  background-color: #ffedba;
 }
 
 html{
@@ -57,5 +73,4 @@ html{
   background: #FFEFBA;
   background: -webkit-linear-gradient(to bottom, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to bottom, #FFEFBA, #FFFFFF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
 }
